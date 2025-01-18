@@ -3,8 +3,7 @@
 -    My name is Vittoria De Pellegrini, I am Italian-Brazilian, and I am currently a PhD student King Abdullah University of Science and Technology in Saudi Arabia.
 - 💻 My research is focused on.
 - 🎓 M.S. in Petroleum Engineering, B.S. in Civil Engineering.
-- Intern @ Aramco in geophysics. <img src="![Uploading channels4_profile.jpg…]()
-" alt="Aramco Logo" height="30">
+- Intern @ Aramco in geophysics. 
 - 🌐 [Website]() | [Linkedin]() | [ORCID]() | [ResearchGate]() | [Google Scholar]()
 
 | Deep Learning  | Diffusion Models  | Reservoir Simulation |
