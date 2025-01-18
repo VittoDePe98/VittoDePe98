@@ -11,7 +11,7 @@
 
 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=VittoDePe98&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=350&hide_border=true" />
   </a>
