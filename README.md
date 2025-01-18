@@ -4,7 +4,7 @@
 - 💻 My research is focused on CO2 monitoring and forecasting using Diffusion Models.
 - 🎓 M.S. in Petroleum Engineering, B.S. in Civil Engineering.
 - Intern @ Aramco in geophysics. 
-- 🌐 [Website]() | [Linkedin]() | [ORCID]() | [ResearchGate]() | [Google Scholar]()
+- 🌐 [Website]() | [Linkedin](https://www.linkedin.com/in/vittoria-de-pellegrini-110371229/) | [ORCID]() | [ResearchGate]() | [Google Scholar]()
 
 ---
 
