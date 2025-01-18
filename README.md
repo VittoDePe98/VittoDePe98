@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 Motto
-**"I am gonna shake this world."**
+**"I am gonna shake up this world."**
 
 ---
 
