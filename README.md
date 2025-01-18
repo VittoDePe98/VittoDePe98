@@ -14,7 +14,7 @@
 ---
 
 | Deep Learning  | Diffusion Models  | Reservoir Simulation | Petrophysics | Well-Logging |
-|------------- | ------------- | ------------- |
+|------------- | ------------- | ------------- | ------------- | ------------- |
 
 
 
