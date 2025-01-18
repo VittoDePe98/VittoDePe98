@@ -6,6 +6,13 @@
 - Intern @ Aramco in geophysics. 
 - 🌐 [Website]() | [Linkedin]() | [ORCID]() | [ResearchGate]() | [Google Scholar]()
 
+---
+
+### 🌟 Motto
+**"I am gonna shake this world."**
+
+---
+
 | Deep Learning  | Diffusion Models  | Reservoir Simulation |
 |------------- | ------------- | ------------- |
 
