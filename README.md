@@ -6,8 +6,8 @@
 - Intern @ Aramco in geophysics. 
 - 🌐 [Website]() | [Linkedin]() | [ORCID]() | [ResearchGate]() | [Google Scholar]()
 
-| Deep Learning  | Diffusion Models  | Reservoir Simulation | Uncertainty Quantification  | Data Assimilation  | Control & Optimization |
-|------------- | ------------- | ------------- |------------- | ------------- | ------------- |
+| Deep Learning  | Diffusion Models  | Reservoir Simulation |
+|------------- | ------------- | ------------- |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=VittoDePe98&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=350" />
