@@ -4,13 +4,6 @@
 - Intern @ Aramco in geophysics.
 - 🌐 [Website]() | [Linkedin](https://www.linkedin.com/in/vittoria-de-pellegrini-110371229/) | [ORCID]() | [ResearchGate]() | [Google Scholar]()
 
----
-
-### 🌟 Motto
-**"I am gonna shake up this world."**
-
----
-
 | Deep Learning  | Diffusion Models  | Reservoir Simulation | Petrophysics | Well-Logging |
 |------------- | ------------- | ------------- | ------------- | ------------- |
 
