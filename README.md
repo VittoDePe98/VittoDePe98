@@ -1,5 +1,5 @@
 -    My name is Vittoria De Pellegrini, I am Italian-Brazilian, and I am currently a PhD student @ King Abdullah University of Science and Technology in Saudi Arabia.
-- 💻 My research is focused on CO2 monitoring and forecasting using Diffusion Models.
+- 💻 My research focuses on CO2 monitoring and forecasting using Diffusion Models.
 - 🎓 M.S. in Petroleum Engineering, B.S. in Civil Engineering.
 - Intern @ Aramco in geophysics.
 - 🌐 [Website]() | [Linkedin](https://www.linkedin.com/in/vittoria-de-pellegrini-110371229/) | [ORCID]() | [ResearchGate]() | [Google Scholar]()
