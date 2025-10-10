@@ -4,8 +4,8 @@
 - Intern @ Aramco in geophysics.
 - 🌐 [Website](https://vittodepe98.github.io) | [Linkedin](https://www.linkedin.com/in/vittoria-de-pellegrini-110371229/) | [ORCID](https://orcid.org/0009-0009-0286-9862) | [ResearchGate]() | [Google Scholar](https://scholar.google.com/citations?user=aUvIDgUAAAAJ&hl=it)
 
-| Deep Learning  | Diffusion Models  | Reservoir Simulation | Petrophysics | Well-Logging |
-|------------- | ------------- | ------------- | ------------- | ------------- |
+| Deep Learning  | Generative Modeling | Diffusion Models  | Reservoir Simulation | Petrophysics | Well-Logging |
+|------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 
 
 
