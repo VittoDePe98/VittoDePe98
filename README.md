@@ -1,4 +1,4 @@
--    My name is Vittoria De Pellegrini, I am Italian-Brazilian, and I am currently a PhD student @ King Abdullah University of Science and Technology in Saudi Arabia.
+-    My name is Vittoria De Pellegrini, I am Italian-Brazilian, and I am currently a PhD candidate @ King Abdullah University of Science and Technology in Saudi Arabia.
 - 💻 My research focuses on progressive autoregressive **video diffusion models** for subsurface fluid flow simulations.
 - 🎓 M.S. in Petroleum Engineering, B.S. in Civil Engineering.
 - Intern @ Aramco in geophysics.
